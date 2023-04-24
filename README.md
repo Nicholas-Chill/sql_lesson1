@@ -1,5 +1,5 @@
-## SQL Lesson 1
-# Basic SQL Syntax
+# SQL Lesson 1
+## Basic SQL Syntax
 
 Basic SQL cheatsheet for Jensen Education.
 
